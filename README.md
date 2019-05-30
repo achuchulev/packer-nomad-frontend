@@ -8,7 +8,7 @@
 
 ## Bake box
 
-### Get the repo and bring up the environment
+### Get the repo
 
 ```
 git clone https://github.com/achuchulev/packer-vagrant-nomad_frontend.git
