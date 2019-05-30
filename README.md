@@ -8,6 +8,13 @@
 
 ## Bake box
 
+### Get the repo and bring up the environment
+
+```
+git clone https://github.com/achuchulev/packer-vagrant-nomad_frontend.git
+cd packer-vagrant-nomad_frontend
+```
+
 ### Validate template: 
 
 `packer validate nomad-frontend.json`
